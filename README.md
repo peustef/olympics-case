@@ -1,4 +1,5 @@
 # Olimpíadas
+Registre competições, resultados e veja o ranking.
 ## Primeiros Passos
 
 * Clonar este repositório
